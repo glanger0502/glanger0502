@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @glanger0502
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-glanger0502/glanger0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @glanger0502 from china.I'm a full-stack engineer for many years. used to write nodejs, php, python, typescript and so on.
+- I want to enter the Web3 World, nowadays I'm interested in Web3 and NFT.
+- just begin to write new code here. 
