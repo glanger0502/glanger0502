@@ -1,4 +1,2 @@
-- @glanger0502 from China.
-- I'm a Full-Stack Engineer for many years. used to write nodejs, php, python, typescript and so on.
-- I want to enter the Web3 World, nowadays I'm interested in Web3 and NFT.
-- just begin to write new code here. 
+# Hi 👋, I'm Glanger
+--
